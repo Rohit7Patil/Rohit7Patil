@@ -1,8 +1,7 @@
 # Hi there, I'm Rohit Patil!
 
-I'm a web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, and React, and I'm always looking to learn more about the latest web technologies.
-
-!Rohit Patil(https://github.com/Rohit7Patil.png?size=100)
+I'm a web developer with a passion for creating beautiful and functional websites. 
+I have experience in HTML, CSS, JavaScript, and React, and I'm always looking to learn more about the latest web technologies.
 
 ## Skills
 - HTML
